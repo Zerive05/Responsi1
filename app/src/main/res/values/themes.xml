@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Base.Theme.Responsi1MobileH1D023041" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+    </style>
+    <style name="Theme.Responsi1MobileH1D023041" parent="Base.Theme.Responsi1MobileH1D023041" />
+
+    <style name="ShapeAppearance.App.CircleImageView" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">50%</item>
+    </style>
+
+</resources>

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Responsi 1 Mobile H1D023041</string>
+
+    <string name="ac_milan_description">
+        AC Milan, didirikan pada 1899, adalah salah satu klub paling sukses
+        di Italia dan dunia. Dikenal dengan julukan Rossoneri,
+        klub ini telah memenangkan 19 gelar Serie A dan 7 trofi Liga Champions Eropa.
+        Mereka memainkan laga kandang di stadion ikonik San Siro.
+    </string>
+
+    <string name="ac_milan_history_long">
+        "AC Milan didirikan sebagai Milan Foot-Ball and Cricket Club pada tahun 1899 oleh ekspatriat Inggris Herbert Kilpin dan Alfred Edwards. Klub ini mengklaim 16 Desember sebagai tanggal berdirinya, dan dengan cepat meraih kesuksesan, memenangkan kejuaraan nasional pertama mereka pada tahun 1901.\n\nPada tahun 1908, perselisihan internal mengenai penandatanganan pemain asing menyebabkan perpecahan, yang melahirkan rival sekota mereka, F.C. Internazionale Milano. Setelah perpecahan ini, Milan harus menunggu lama untuk meraih kesuksesan besar berikutnya.\n\nEra keemasan klub datang di bawah kepemimpinan Silvio Berlusconi, yang membeli klub pada tahun 1986. Periode ini menyaksikan Milan mendominasi sepak bola Italia dan Eropa. Di bawah pelatih legendaris seperti Arrigo Sacchi dan Fabio Capello, Milan memenangkan banyak gelar Serie A dan Liga Champions UEFA. Tim ini dikenal dengan pertahanan yang tangguh dan pemain kelas dunia.\n\nSecara total, AC Milan telah memenangkan 19 gelar liga (Scudetto), 5 gelar Coppa Italia, dan 7 gelar Liga Champions/Piala Eropa, menjadikannya salah satu klub paling sukses dalam sejarah sepak bola."
+    </string>
+
+</resources>
