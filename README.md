@@ -1,5 +1,5 @@
 # Responsi1
-<img src="https://raw.githubusercontent.com/Zerive05/Responsi1main/assets/Responsi1.gif" width="200">
+<img src="https://raw.githubusercontent.com/Zerive05/Responsi1/main/assets/Responsi1.gif" width="200">
 
 ## Deskripsi
 ## 📱 Fitur Aplikasi
